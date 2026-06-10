@@ -90,7 +90,7 @@ Sales Enablement      ███████████████░░░░�
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-tiwari-5b2876222/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sudhanshut707@gmail.com)
 [![Phone](https://img.shields.io/badge/+91%207049964999-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917049964999)
 
